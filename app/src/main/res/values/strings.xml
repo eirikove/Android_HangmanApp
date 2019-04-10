@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">HangMan</string>
+
+    <string name="new_game">NEW GAME</string>
+    <string name="help">HELP</string>
+    <string name="change_language">CHANGE LANGUAGE</string>
+
+    <string name="nytt_spill">NYTT SPILL</string>
+    <string name="hjelp">HJELP</string>
+    <string name="bytt_språk">BYTT SPRÅK</string>
+
+    <string name="exit_app">EXIT</string>
+    <string name="avslutt">AVSLUTT</string>
+
+    <array name="imgs">
+        <item>@drawable/hang0</item>
+        <item>@drawable/hang1</item>
+        <item>@drawable/hang2</item>
+        <item>@drawable/hang3</item>
+        <item>@drawable/hang4</item>
+        <item>@drawable/hang5</item>
+        <item>@drawable/hang6</item>
+        <item>@drawable/hang7</item>
+    </array>
+
+    <string-array name="norWords">
+        <item>ORD</item>
+        <item>LASTEBIL</item>
+        <item>ORDDELING</item>
+        <item>BRENNEVIN</item>
+        <item>KJEMPELANGTORD</item>
+        <item>BRØNNØYSUNDREGISTERET</item>
+        <item>ER</item>
+        <item>TEST</item>
+        <item>BYGGEPLASS</item>
+        <item>ÆØÅ</item>
+    </string-array>
+
+    <string-array name="engWords">
+        <item>WORD</item>
+        <item>SPACEDWORD</item>
+        <item>QUARK</item>
+        <item>SPACESTATION</item>
+        <item>ONOMATOPOETICON</item>
+        <item>THELONGESTENGLISHWORD</item>
+        <item>A</item>
+        <item>AN</item>
+        <item>ORCHID</item>
+        <item>UNGUESSABLE</item>
+    </string-array>
+
+    <string name="norDescription">Dette er en hangman app. Fyll ut ordet med å velge riktige bokstaver, men vær forsiktig: Velger du feil nok ganger, blir mannen hengt!</string>
+    <string name="engDescription">This is a hangman app! Guess the complete word by selecting the correct letters, but be careful: If you guess wrong enough times, your man is dead!</string>
+
+</resources>
